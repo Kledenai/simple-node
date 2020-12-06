@@ -1,0 +1,15 @@
+{
+  "name": "simple-node",
+  "version": "1.0.0",
+  "description": "A sample application for Kubernetes Up & Running",
+  "main": "server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
